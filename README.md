@@ -9,7 +9,7 @@
 <h2 align="left">About me</h2>
 
 ###
-
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Next JS<br>🎯 Goals: to land a job about web development<br>🎲 Fun fact: </p>
 ###
 <h2 align="left">Repositories that matters on my Profile</h2>
 <ul>
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Next JS<br>🎯 Goals: to land a job about web development<br>🎲 Fun fact: </p>
+
 
 ###
 
