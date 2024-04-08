@@ -6,34 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Next JS<br>🎯 Goals: to land a job about web development<br>🎲 Fun fact: </p>
-
-<h2 align="left">Repositories that matters on my Profile</h2>
-<ul>
-  <li>Movie App</li>
-  <li>Weather App</li>
-  <li>Todo App Postgres</li>
-  <li>Rest Country Api</li>
-  <li>Blogr Landing Page</li>
-  <li>E-commerce</li>
-  <li>Url Shortening Landing Page</li>
-  <li>express-session-auth</li>
-  <li>authentication-postgres</li>
-  <li>News Letter</li>
-  <li>Memory Game</li>
-  <li>Tic Tac Toe</li>
-  <li>News Home</li>
-  <li>Product Preview</li>
-</ul>
-<h2 align="left">Anything that is not from the list is just a repo to practice my skills</h2>
-
-###
-
-
-
 ###
 
 <h2 align="left">I code with</h2>
@@ -69,3 +41,33 @@
 </div>
 
 ###
+
+<h2 align="left">About me</h2>
+
+###
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Next JS<br>🎯 Goals: to land a job about web development<br>🎲 Fun fact: </p>
+
+<h2 align="left">Repositories that matters on my Profile</h2>
+<ul>
+  <li>Movie App</li>
+  <li>Weather App</li>
+  <li>Todo App Postgres</li>
+  <li>Rest Country Api</li>
+  <li>Blogr Landing Page</li>
+  <li>E-commerce</li>
+  <li>Url Shortening Landing Page</li>
+  <li>express-session-auth</li>
+  <li>authentication-postgres</li>
+  <li>News Letter</li>
+  <li>Memory Game</li>
+  <li>Tic Tac Toe</li>
+  <li>News Home</li>
+  <li>Product Preview</li>
+</ul>
+<h2 align="left">Anything that is not from the list is just a repo to practice my skills</h2>
+
+###
+
+
+
+
