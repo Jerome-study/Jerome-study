@@ -10,7 +10,7 @@
 
 ###
 <p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Next JS<br>🎯 Goals: to land a job about web development<br>🎲 Fun fact: </p>
-###
+
 <h2 align="left">Repositories that matters on my Profile</h2>
 <ul>
   <li>Movie App</li>
